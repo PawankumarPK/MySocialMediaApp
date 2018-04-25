@@ -65,6 +65,7 @@ public class FirebaseMethods {
         public boolean checkIfUsernameisExits(String username, DataSnapshot datasnapshot){
             Log.d(TAG, "checkIfUsernameisExits: checking if" + username + "already exits.");
 
+mfvlkfnkfnfkn
             User user = new User();
 
             for (DataSnapshot ds: datasnapshot.child(userID).getChildren()){
