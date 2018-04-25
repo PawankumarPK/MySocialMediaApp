@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1066974060070",
+    "firebase_url": "https://newphotoblogger.firebaseio.com",
+    "project_id": "newphotoblogger",
+    "storage_bucket": "newphotoblogger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066974060070:android:45842d851db8d3d2",
+        "android_client_info": {
+          "package_name": "com.example.hp.photobloggerpart2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066974060070-bq0lpcqcrphg82tqkuukfquogs9ulnj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.photobloggerpart2",
+            "certificate_hash": "7b6a0ad64df3d21030a611cc3657cd33874196ed"
+          }
+        },
+        {
+          "client_id": "1066974060070-t3k80itvsbfc3jvihal5soi8042bk442.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbWMv0ybLPVvPuoz6g-oTWtkz2G1pDmC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066974060070-t3k80itvsbfc3jvihal5soi8042bk442.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
